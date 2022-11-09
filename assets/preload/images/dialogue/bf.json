@@ -5,72 +5,85 @@
 	],
 	"dialogue_pos": "right",
 	"scale": 1.25,
-	"image": "BF_Dialogue",
+	"image": "BOYFRIEND",
 	"animations": [
 		{
-			"idle_offsets": [
-				-1,
-				-12
+			"loop_offsets": [
+				0,
+				0
 			],
+			"anim": "left",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF NOTE LEFT0",
+			"idle_name": "BF NOTE LEFT0013"
+		},
+		{
 			"loop_offsets": [
 				0,
 				0
 			],
 			"anim": "talk",
-			"idle_name": "BF0",
-			"loop_name": "BF LOOP"
-		},
-		{
-			"idle_offsets": [
-				4,
-				-8
-			],
-			"anim": "excited",
-			"loop_offsets": [
-				5,
-				0
-			],
-			"idle_name": "BF EXCITED0",
-			"loop_name": "BF EXCITED LOOP"
-		},
-		{
 			"idle_offsets": [
 				0,
 				0
 			],
-			"anim": "pissed",
+			"loop_name": "BF idle d",
+			"idle_name": "BF idle d"
+		},
+		{
 			"loop_offsets": [
 				0,
 				0
 			],
-			"idle_name": "BF PISSED0",
-			"loop_name": "BF PISSED LOOP"
-		},
-		{
+			"anim": "right",
 			"idle_offsets": [
-				-6,
-				-11
-			],
-			"anim": "shocked",
-			"loop_offsets": [
-				-4,
+				0,
 				0
 			],
-			"idle_name": "BF SHOCK0",
-			"loop_name": "BF SHOCK LOOP"
+			"loop_name": "BF NOTE RIGHT0",
+			"idle_name": "BF NOTE RIGHT0013"
 		},
 		{
 			"loop_offsets": [
-				-3,
+				0,
 				0
 			],
-			"anim": "confused",
+			"anim": "down",
 			"idle_offsets": [
-				-6,
-				-11
+				0,
+				0
 			],
-			"loop_name": "BF CONFUSED LOOP",
-			"idle_name": "BF CONFUSED0"
+			"loop_name": "BF NOTE DOWN0",
+			"idle_name": "BF NOTE DOWN0013"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "up",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF NOTE UP0",
+			"idle_name": "BF NOTE UP0013"
+		},
+		{
+			"loop_name": "BF idle s",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF idle s",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
 		}
 	]
 }
