@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOOB"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GIT LESS THAN 10 MISSES"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOOB"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOW YOUR GAME CRASHES"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "N"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "O"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "O"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "B"
+		},
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOOB"
+		}
+	]
+}
